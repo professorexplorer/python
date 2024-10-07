@@ -9,5 +9,5 @@
 
 fruits = ["apple", "banana", "cherry"]
 
-for fruit in fruits :
-    print(fruit)
+for x in fruits :
+    print(x)
